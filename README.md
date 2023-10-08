@@ -13,7 +13,7 @@
 
 📚 Graduating in computer engineering from Universiti of Brasilia
 
-🔧 Tech Stack:: git,python,c++ ,js,node,html and css.
+🔧 Tech Stack: git,python,c++ ,js,node,html and css.
 
 🌏 Based in 🇧🇷 Brazil
 
