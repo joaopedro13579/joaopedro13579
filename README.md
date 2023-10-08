@@ -9,7 +9,7 @@
 
 🔭 Currently working on a c++ game 2d game
 
-📫 How to reach me: [Your Contact Information]
+📫 How to reach me: joao.pedro.souza.lopes2016@gmail.com
 
 📚 Graduating in computer engineering from Universiti of Brasilia
 
