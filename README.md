@@ -18,6 +18,7 @@
 🌏 Based in 🇧🇷 Brazil
 
 🎶 Fun Fact: 
-
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 📌 Check out my repositories below! ⬇️
 
