@@ -11,14 +11,11 @@
 
 📫 How to reach me: joao.pedro.souza.lopes2016@gmail.com
 
-📚 Graduating in computer engineering from Universiti of Brasilia
+📚 Graduating in computer engineering from University of Brasilia
 
 🔧 Tech Stack: git,python,c++ ,js,node,html and css.
 
 🌏 Based in 🇧🇷 Brazil
 
-🎶 Fun Fact: 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 📌 Check out my repositories below! ⬇️
 
