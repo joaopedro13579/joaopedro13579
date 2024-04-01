@@ -3,7 +3,7 @@
 
 🚀 Full-stack Developer | game developer and designer |.exe aplications
 
-🌱 Exploring python game development
+🌱 Exploring c++ game development
 
 💡 Passionate about game development| hardware engineering
 
@@ -14,6 +14,8 @@
 📚 Graduating in computer engineering from University of Brasilia
 
 🔧 Tech Stack: git,python,c++ ,js,node,html and css.
+
+👨‍💼 working on:conselho de gestão de recursos estrategicos .
 
 🌏 Based in 🇧🇷 Brazil
 
