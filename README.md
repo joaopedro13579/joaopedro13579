@@ -15,7 +15,7 @@
 
 🔧 Tech Stack: git,python,c++ ,js,node,html and css and a lot more.
 
-👨‍💼 working on:Working in Laboratorio sesi loking for wireless solutions so remote maintenence .
+👨‍💼 working on:Working in Laboratorio sesi loking for wireless solutions to remote maintenence .
 
 🌏 Based in 🇧🇷 Brazil
 
